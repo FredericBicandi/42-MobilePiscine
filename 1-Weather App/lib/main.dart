@@ -105,7 +105,7 @@ class _WeatherState extends State<Weather> {
     super.initState();
 
     int hour = int.parse(DateTime.now().hour.toString());
-    if (hour >= 5 && hour < 14) {
+    if (hour >= 5 && hour < 21) {
       afterNoon = true;
       image = "AfterNoon.png";
     } else {
