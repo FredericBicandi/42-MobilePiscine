@@ -51,16 +51,16 @@ Includes charts, temperature curves, icons, backgrounds, and location search.
 <table>
   <tr>
     <td>
-        <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.png">
+        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.png">
     </td>
     <td>
-        <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.1.png">
+        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.1.png">
     </td>
     <td>
-        <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_2.png">
+        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_2.png">
     </td>
     <td>
-        <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_3.png">
+        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_3.png">
     </td>
   </tr>
 </table>
