@@ -51,7 +51,7 @@ Includes charts, temperature curves, icons, backgrounds, and location search.
 <table>
   <tr>
     <td>
-        <img width="200" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.png">
+        <img width="90%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.png">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.1.png">
