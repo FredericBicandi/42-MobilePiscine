@@ -56,8 +56,6 @@ Includes charts, temperature curves, icons, backgrounds, and location search.
     <td>
         <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_1.1.png">
     </td>
-  </tr>
-  <tr>
     <td>
         <img width="80%" src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Weather_2.png">
     </td>
