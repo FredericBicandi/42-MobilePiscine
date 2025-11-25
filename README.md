@@ -111,7 +111,7 @@ Includes login, entry creation, deletion, agenda tracking, and real-time updates
         <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Diary_1.png">
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Diary_3.png">
+        <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Diary_2.png">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/FredericBicandi/42-MobilePiscine/refs/heads/master/.ss/Diary_3.png">
